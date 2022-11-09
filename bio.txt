@@ -1,0 +1,3 @@
+My name is Ator
+School name: Confederation college
+Course name: Software development and deployment
